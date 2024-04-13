@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="Health" manual="1" parent_name="node_base">
+	<parameter name="HealthCount" type="int">50</parameter>
+	<parameter name="Delta_Heath" type="int">2</parameter>
+	<parameter name="Time_Of_Damage" type="int">1</parameter>
+</property>

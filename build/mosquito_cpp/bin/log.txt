@@ -1,0 +1,144 @@
+16:40:32 System info initialization (Time: 101.2ms, Memory: 0B)
+16:40:32 
+16:40:32 ---- Engine ----
+16:40:32 Version: 2.18.0.1 ver-2.18.0.0-bf5143a Feb  6 2024
+16:40:32 Binary: Windows 64-bit Visual C++ 1900 Release
+16:40:32 Engine features: Direct3D11 Direct3D12 Vulkan OpenAL VR OpenVR Varjo Microprofile DoubleCoords HalfTexCoords Development
+16:40:32 Third-Party Notices: https://developer.unigine.com/docs/2.18/third_party
+16:40:32 
+16:40:32 
+16:40:32 ---- Configs ----
+16:40:32 Loading boot config "E:/UnigineDocuments/mosquito_cpp/build(.exe)/mosquito_cpp/data/configs/default.boot"...
+16:40:32 Loading user config "E:/UnigineDocuments/mosquito_cpp/build(.exe)/mosquito_cpp/data/configs/default.user"...
+16:40:32 Using config file "configs/default.config"
+16:40:32 Using boot config file "configs/default.boot"
+16:40:32 Using user config file "configs/default.user"
+16:40:32 Using controls config file "configs/default.controls"
+16:40:32 
+16:40:32 ---- Engine Microprofile ----
+16:40:32 Microprofile initialization (Time: 0.4ms, Memory: 1.5KB)
+16:40:32 MicroProfile: Web server started on port 1338
+16:40:32 
+16:40:32 ---- GPU Detection ----
+16:40:32 GPU 0: NVIDIA GeForce GTX 690 1945 MB (Active)
+16:40:32 GPU 1: Microsoft Basic Render Driver 8151 MB
+16:40:32 
+16:40:32 ---- System ----
+16:40:32 OS:		Windows 10 (build 19045) 64-bit
+16:40:32 
+16:40:32 CPU:	Intel(R) Core(TM) i3-10105F CPU @ 3.70GHz
+16:40:32 		Frequency: 3695MHz
+16:40:32 		Extensions:  MMX SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 HTT
+16:40:32 		Cores:4 Threads:8
+16:40:32 
+16:40:32 		System memory: 16303 MB
+16:40:32 		CPUShaders threads: 8
+16:40:32 
+16:40:32 GPU:	NVIDIA GeForce GTX 690
+16:40:32 		Video memory:  1945 MB
+16:40:32 
+16:40:32 
+16:40:32 ---- Application ----
+16:40:32 
+16:40:32 ---- System Proxy ----
+16:40:32 SystemProxy initialization (Time: 128.7ms, Memory: 13.0KB)
+16:40:32 
+16:40:32 ---- VR ----
+16:40:32 VR initialization (Time: 0.0ms, Memory: 688B)
+16:40:32 
+16:40:32 
+16:40:32 ---- Render ----
+16:40:32 Loading "dxgi.dll"...
+16:40:32 Direct3D 11 initialization
+16:40:32 Renderer: NVidia 1945MB
+16:40:32 Renderer API: Direct3D 11.0
+16:40:32 Maximum texture size: 16384
+16:40:32 Maximum texture units: 16
+16:40:32 Render initialization (Time: 254.1ms, Memory: 15.0MB)
+16:40:32 
+16:40:32 
+16:40:32 ---- VR Subsystems ----
+16:40:32 VR Subsystems initialization (Time: 0.0ms, Memory: 2.3KB)
+16:40:32 
+16:40:32 
+16:40:32 ---- Filesystem ----
+16:40:32 App path:  E:/UnigineDocuments/mosquito_cpp/build(.exe)/mosquito_cpp/bin/
+16:40:32 Data path: E:/UnigineDocuments/mosquito_cpp/build(.exe)/mosquito_cpp/data/
+16:40:32 Save path: E:/UnigineDocuments/mosquito_cpp/build(.exe)/mosquito_cpp/bin/
+16:40:32 
+16:40:32 Runtimes loaded: 1 (Time: 0.5ms, Memory: 385.1KB)
+16:40:32 Filesystem initialization (Time: 91.8ms, Memory: 7.2MB)
+16:40:32 
+16:40:32 
+16:40:32 ---- Sound ----
+16:40:32 Loading "openal32.dll"...
+16:40:32 Renderer: OpenAL Soft on Динамики (HECATE GS02 GAMING SOUND CARD)
+16:40:32 OpenAL vendor: OpenAL Community
+16:40:32 OpenAL renderer: OpenAL Soft
+16:40:32 OpenAL version: 1.1 ALSOFT 1.22.2
+16:40:32 Found AL_EXT_LINEAR_DISTANCE
+16:40:32 Found AL_EXT_OFFSET
+16:40:32 Found ALC_EXT_EFX
+16:40:32 Found ALC_SOFT_HRTF
+16:40:32 Found EFX Filter
+16:40:32 Found EFX Reverb
+16:40:32 Found EAX Reverb
+16:40:32 Found QUAD16 format
+16:40:32 Found 51CHN16 format
+16:40:32 Found 61CHN16 format
+16:40:32 Found 71CHN16 format
+16:40:32 Device enumeration supported
+16:40:32 Maximum sources: 256
+16:40:32 Maximum effect slots: 16
+16:40:32 Maximum auxiliary sends: 2
+16:40:32 Output sampling frequency: 48000hz
+16:40:32 HRTF not enabled!
+16:40:32 
+16:40:32 Sound: openal
+16:40:32 Sound initialization (Time: 34.3ms, Memory: 9.1KB)
+16:40:32 
+16:40:32 ---- Physics ----
+16:40:32 
+16:40:32 ---- PathFind ----
+16:40:32 
+16:40:32 Loading controls "E:/UnigineDocuments/mosquito_cpp/build(.exe)/mosquito_cpp/data/configs/default.controls"...
+16:40:32 Loading config "E:/UnigineDocuments/mosquito_cpp/build(.exe)/mosquito_cpp/data/configs/default.config"...
+16:40:33 D3D11Particles::createBuffers (Time: 48.5ms, Memory: 16.9KB)
+16:40:33 
+16:40:33 ---- Materials ----
+16:40:33 Load Abstract Materials (Time: 1.5ms, Memory: 433.9KB)
+16:40:33 Base materials loaded: 154/154 (Time: 76.7ms, Memory: 4.1MB)
+16:40:33 Materials loaded: 68/68 (Time: 8.2ms, Memory: 593.2KB)
+16:40:33 Total materials: 222
+16:40:33 
+16:40:33 Load Materials (Time: 85.1ms, Memory: 4.6MB)
+16:40:33 
+16:40:33 ---- Properties ----
+16:40:33 Properties loaded: 6/6 (Time: 0.9ms, Memory: 105.0KB)
+16:40:33 
+16:40:33 
+16:40:33 ---- Animations ----
+16:40:33 Total objects: 0
+16:40:33 Total tracks: 0
+16:40:33 Total playbacks: 0
+16:40:33 Load Animations (Time: 0.4ms, Memory: 0B)
+16:40:33 
+16:40:33 ---- MeshStaticManager ----
+16:40:33 Initialization meshes (Time: 0.8ms, Memory: 95.3KB)
+16:40:33 Total resources: 5
+16:40:33 
+16:40:33 Engine initialization (Time: 1.2s, Memory: 164.7MB)
+16:40:33 
+16:40:33 
+16:40:33 ---- Plugins ----
+16:40:33 Plugins path: "E:/UnigineDocuments/mosquito_cpp/build(.exe)/mosquito_cpp/bin/plugins"
+16:40:33 Plugins initialization (Time: 0.1ms, Memory: 3.5KB)
+16:40:33 
+16:40:33 ---- Interpreter ----
+16:40:33 Version: 2.90
+16:40:33 
+16:40:33 Unigine~# world_load "models/mosquito_cpp"
+16:40:33 Script loading "core/unigine.usc" 4ms
+16:40:33 World loading "models/mosquito_cpp.world" (Time: 179.8ms, Memory: 395.7KB)
+16:41:23 Close "openal32.dll"
+16:41:23 Fast shutdown 22.6ms

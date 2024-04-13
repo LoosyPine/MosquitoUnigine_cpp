@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="Spawner" manual="1" parent_name="node_base">
+	<parameter name="node_reference" type="file" title="Node Reference"/>
+	<parameter name="Max_Counts" type="int">10</parameter>
+	<parameter name="Size_Spawn_X" type="float">10</parameter>
+	<parameter name="Size_Spawn_Y" type="float">10</parameter>
+	<parameter name="Size_Spawn_Z" type="float">10</parameter>
+</property>
