@@ -18,7 +18,7 @@ void Health::Init()
 void Health::Update()
 {
 	//Life-Time Logick
-	if (local_health > 0)
+	if (local_health > 0 && loseCheck == false)
 	{
 		if (int(time_of_life.endSeconds()) == local_time_of_damage)
 		{
@@ -31,6 +31,7 @@ void Health::Update()
 	{
 		Health_Bar->setFontColor(Unigine::Math::vec4_red);
 		Health_Bar->setText("YOU LOSE!!!");
+		loseCheck = true;
 	}
 
 }

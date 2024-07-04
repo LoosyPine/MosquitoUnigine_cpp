@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="ObjectDummy" id="211455000" name="Bonus">
+		<properties>
+			<property parent="4d963cfab70d8c850b1221649bcc7b4d96d558d3" guid="0f1992b104a96588bc4a56442c7460a4df9ea06c">
+				<parameter name="HealthCost">25</parameter>
+			</property>
+		</properties>
+		<transform>0.999993920326 0.00349064404145 6.08759000897e-06 0.0 0 -0.00174398522358 0.999999165535 0.0 0.00349065568298 -0.999994158745 -0.00174397649243 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="577872023" name="bonus_face">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://41a1db28dd9ef4c52e324f0720cdcf60b805458e</mesh_name>
+			<surface name="cylinder" intersection="1" material="dbee6e5aeeacb19406c1a4519bcec3516d9707b0"/>
+			<transform>0.999994635582 0 0 0.0 0 0.999989628792 0 0.0 0 0 0.999993681908 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

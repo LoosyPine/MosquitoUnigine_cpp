@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="Mosquito" manual="1" parent_name="node_base">
+	<parameter name="Torque_Force" type="float">1</parameter>
+	<parameter name="Forward_Force" type="float">1</parameter>
+	<parameter name="Lifting_Force" type="float">1</parameter>
+	<parameter name="Down_Force" type="float">2</parameter>
+	<parameter name="Rotor_Point" type="float">0.3</parameter>
+</property>

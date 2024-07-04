@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="Bonus" manual="1" parent_name="node_base">
+	<parameter name="HealthCost" type="int">25</parameter>
+	<parameter name="Radius" type="float">1</parameter>
+</property>

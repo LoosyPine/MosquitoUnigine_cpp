@@ -27,6 +27,8 @@ private:
 	Unigine::WidgetLabelPtr Health_Bar;
 	//Timer
 	Unigine::Timer time_of_life;
+	//Flags
+	bool loseCheck = false;
 
 	void Init();
 	void Update();

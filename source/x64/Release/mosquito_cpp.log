@@ -1,3 +1,4 @@
-﻿  Spawner.cpp
+﻿  Bonus.cpp
+  Health.cpp
      Создается библиотека E:\UnigineDocuments\mosquito_cpp\source\../bin/mosquito_cpp_x64.lib и объект E:\UnigineDocuments\mosquito_cpp\source\../bin/mosquito_cpp_x64.exp
   mosquito_cpp.vcxproj -> E:\UnigineDocuments\mosquito_cpp\bin\mosquito_cpp_x64.exe
